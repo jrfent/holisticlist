@@ -1,24 +1,25 @@
-# README
+# Holistic List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+So, for this project, I intend to build a platform that is extremely simple and fast as a directory system for Holistic Medicine, Practitioners, Products, and Companies.  
 
-Things you may want to cover:
+Details:
 
-* Ruby version
+* ruby 2.6.6p146 (2020-03-31 revision 67876) [x86_64-darwin19]
 
-* System dependencies
+* Rails 6.0.2.2
 
-* Configuration
+* Utilizing PostgreSQL
 
-* Database creation
+Plan
 
-* Database initialization
+* Build a platform that can be city/geography specific.
 
-* How to run the test suite
+* Create an indepth Directory structure.
 
-* Services (job queues, cache servers, search engines, etc.)
+* Try to find out if I can use subdomain system for dividing by city.
 
-* Deployment instructions
+* Create a way to collect for listings in specific categories and free for others.
+
+* Deploy to https://holisticlist.org
 
 * ...
